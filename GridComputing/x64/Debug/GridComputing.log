@@ -1,0 +1,5 @@
+﻿  GridComputing.cpp
+E:\ASP.NET\BTH7\GridComputing\GridComputing.cpp(23,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\ASP.NET\BTH7\GridComputing\GridComputing.cpp(75,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ASP.NET\BTH7\GridComputing\GridComputing.cpp(100,40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  GridComputing.vcxproj -> E:\ASP.NET\BTH7\GridComputing\x64\Debug\GridComputing.exe
